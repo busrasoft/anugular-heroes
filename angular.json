@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-heroes"
+    }
+  },
+  "defaultProject": "angular-heroes",
+  "cli": {
+    "analytics": "a4af6f60-f087-49e9-b3c5-9fca6a918e65"
+  }
 }
